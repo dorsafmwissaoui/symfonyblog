@@ -1,0 +1,6 @@
+.replit
+.env
+mon-blog-project.sql
+mon-blog-projectTest.sql
+phpunit.xml.dist
+replit.nix
